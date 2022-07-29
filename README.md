@@ -1,5 +1,5 @@
-# PythonMethodChainig
-Basinc and simple step on using computer
+# PythonMethodChaining
+Basic and Simple Step on Using Computer
 
 Objective:
 - function chaining in a class
