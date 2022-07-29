@@ -20,6 +20,7 @@ while choice != 'e' and choice != 'E':
     if choice == '1':
         print('\n')
         comp_is_on = True
+        comp_is_off = False
         basic_computer.press_on_off().turn_on()
 
     elif choice == '2':
